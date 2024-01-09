@@ -1,5 +1,8 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faTicket } from '@fortawesome/free-solid-svg-icons'
 import './Movie.css';
+
 
 const Movie = (props) => {
     const {movieName,moviePoster,ticketPrice}=props.movie;
@@ -12,7 +15,9 @@ const Movie = (props) => {
                 <p>{movieName}</p>
                 <p>Price: {ticketPrice}</p>
             </div>
-            <button onClick={()=>props.buyTicketHandler()}>Buy Ticket</button>
+            <button className='add-btn' onClick={()=>props.buyTicketHandler(props.movie)}>
+                <p className='btn-text'>Buy Ticket</p> 
+                <FontAwesomeIcon icon={faTicket} /></button>
         </div>
     );
 };
