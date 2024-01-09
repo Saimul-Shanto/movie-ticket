@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "movieName": "Animal",
+      "moviePoster": "https://m.media-amazon.com/images/M/MV5BNWU5ZDRmMWItZGU0NC00NzZjLTgzYjctY2RlMzI3OTNkN2U5XkEyXkFqcGdeQXVyMTE0MTY2Mzk2._V1_.jpg",
+      "ticketPrice": 12.99
+    },
+    {
+      "id": 2,
+      "movieName": "Dunki",
+      "moviePoster": "https://www.businessoftollywood.com/wp-content/uploads/2023/11/IMG-20231104-WA0012-1.jpg",
+      "ticketPrice": 14.99
+    },
+    {
+      "id": 3,
+      "movieName": "Inception",
+      "moviePoster": "https://www.originalfilmart.com/cdn/shop/products/inception_2010_advance_original_film_art_f4801a23-edb3-4db0-b382-1e2aec1dc927_5000x.jpg?v=1626289428",
+      "ticketPrice": 11.99
+    },
+    {
+      "id": 4,
+      "movieName": "Midnight Mirage",
+      "moviePoster": "https://example.com/poster4.jpg",
+      "ticketPrice": 10.99
+    },
+    {
+      "id": 5,
+      "movieName": "Shadows of Serenity",
+      "moviePoster": "https://example.com/poster5.jpg",
+      "ticketPrice": 13.99
+    },
+    {
+      "id": 6,
+      "movieName": "Chronicles of Tomorrow",
+      "moviePoster": "https://example.com/poster6.jpg",
+      "ticketPrice": 9.99
+    },
+    {
+      "id": 7,
+      "movieName": "Dreams of Dystopia",
+      "moviePoster": "https://example.com/poster7.jpg",
+      "ticketPrice": 15.99
+    },
+    {
+      "id": 8,
+      "movieName": "Silent Odyssey",
+      "moviePoster": "https://example.com/poster8.jpg",
+      "ticketPrice": 12.99
+    },
+    {
+      "id": 9,
+      "movieName": "Whirlwind Whisper",
+      "moviePoster": "https://example.com/poster9.jpg",
+      "ticketPrice": 11.99
+    },
+    {
+      "id": 10,
+      "movieName": "Mystic Moonlight",
+      "moviePoster": "https://example.com/poster10.jpg",
+      "ticketPrice": 14.99
+    },
+    {
+      "id": 11,
+      "movieName": "Echoes of Eternity",
+      "moviePoster": "https://example.com/poster11.jpg",
+      "ticketPrice": 13.99
+    },
+    {
+      "id": 12,
+      "movieName": "Fading Twilight",
+      "moviePoster": "https://example.com/poster12.jpg",
+      "ticketPrice": 10.99
+    }
+] 
+  
