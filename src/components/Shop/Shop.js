@@ -9,11 +9,14 @@ const Shop = () => {
         .then(res=>res.json())
         .then(data=>setMovies(data))
     },[]);
+    const buyTicketHandler=()=>{
+        console.log('click');
+    }
     return (
         <div className='shop'>
             <div className="movie-container">
                 {
-                    movies.map(movie=><Movie movie={movie} key={movie.id}></Movie>)
+                    movies.map(movie=><Movie movie={movie} key={movie.id} buyTicketHandler={buyTicketHandler}></Movie>)
                 }
             </div>
             <div className="cart-container">
