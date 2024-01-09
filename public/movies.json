@@ -19,20 +19,20 @@
     },
     {
       "id": 4,
-      "movieName": "Midnight Mirage",
-      "moviePoster": "https://example.com/poster4.jpg",
+      "movieName": "The Dark Knight",
+      "moviePoster": "https://m.media-amazon.com/images/I/81CLFQwU-WL.jpg",
       "ticketPrice": 10.99
     },
     {
       "id": 5,
-      "movieName": "Shadows of Serenity",
-      "moviePoster": "https://example.com/poster5.jpg",
+      "movieName": "Jawan",
+      "moviePoster": "https://m.media-amazon.com/images/M/MV5BOWI5NmU3NTUtOTZiMS00YzA1LThlYTktNDJjYTU5NDFiMDUxXkEyXkFqcGdeQXVyMTUzNjEwNjM2._V1_FMjpg_UX1000_.jpg",
       "ticketPrice": 13.99
     },
     {
       "id": 6,
-      "movieName": "Chronicles of Tomorrow",
-      "moviePoster": "https://example.com/poster6.jpg",
+      "movieName": "Pathan",
+      "moviePoster": "https://m.media-amazon.com/images/M/MV5BYTgzNjBjYTctOGJiZi00MTliLTk0YzYtNDJmYTQyMDdkMjQ5XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_FMjpg_UX1000_.jpg",
       "ticketPrice": 9.99
     },
     {
@@ -52,24 +52,6 @@
       "movieName": "Whirlwind Whisper",
       "moviePoster": "https://example.com/poster9.jpg",
       "ticketPrice": 11.99
-    },
-    {
-      "id": 10,
-      "movieName": "Mystic Moonlight",
-      "moviePoster": "https://example.com/poster10.jpg",
-      "ticketPrice": 14.99
-    },
-    {
-      "id": 11,
-      "movieName": "Echoes of Eternity",
-      "moviePoster": "https://example.com/poster11.jpg",
-      "ticketPrice": 13.99
-    },
-    {
-      "id": 12,
-      "movieName": "Fading Twilight",
-      "moviePoster": "https://example.com/poster12.jpg",
-      "ticketPrice": 10.99
     }
 ] 
   
