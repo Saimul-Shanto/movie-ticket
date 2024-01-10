@@ -1,6 +1,15 @@
 .header{
     text-align: center;
-    margin: 30px;
+    /* margin: 30px 30px; */
     font-family: Lato;
     font-size: large;
+    margin:0px;
+    padding: 0px 0px;
+    background-color: #210035e6;
+}
+.header h2{
+    margin: 0px;
+    padding: 30px;
+    color: aliceblue;
+
 }
