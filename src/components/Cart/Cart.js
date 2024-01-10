@@ -27,7 +27,7 @@ const Cart = (props) => {
     return (
         <div className='cart'>
             <h3>Ticket Summary</h3>
-            <p>{ticket.length}</p>
+            {/* <p>{ticket.length}</p> */}
             {/* <p>{mName}</p> */}
             
             {
